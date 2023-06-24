@@ -1,0 +1,13 @@
+Kalan-Sure: 400 # 1 gün = 86400 saniye
+Required-Mob:
+  Killed:
+Top-3-Damager:
+  Damager-1:
+    Name: ''
+    Damage: 0
+  Damager-2:
+    Name: ''
+    Damage: 0
+  Damager-3:
+    Name: ''
+    Damage: 0

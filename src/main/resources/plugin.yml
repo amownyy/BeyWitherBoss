@@ -1,0 +1,14 @@
+name: BeyWitherBoss
+version: '${version}'
+main: works.emregumus.beywitherboss.BeyWitherBoss
+api-version: 1.19
+authors: [ Amownyy ]
+depend:
+  - MythicMobs
+  - ItemsAdder
+  - PlaceholderAPI
+commands:
+  beywitherboss:
+    usage: /beywitherboss <args>
+    permission: beywitherboss.admin
+    aliases: [bwb]

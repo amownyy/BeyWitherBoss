@@ -1,0 +1,91 @@
+Ores:
+  ItemsAdder:
+    TOPAZ:
+      Location1:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+    RUBY:
+      Location1:
+          World: "world"
+          X: 0
+          Y: 0
+          Z: 0
+      Location2:
+          World: "world"
+          X: 0
+          Y: 0
+          Z: 0
+    BEYRONYUM:
+      Location1:
+        World: world
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: world
+        X: 0
+        Y: 0
+        Z: 0
+  Normal:
+    EMERALD:
+      Location1:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+    DIAMOND:
+      Location1:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+    GOLD:
+      Location1:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+    IRON:
+      Location1:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+    COAL:
+      Location1:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0
+      Location2:
+        World: "world"
+        X: 0
+        Y: 0
+        Z: 0

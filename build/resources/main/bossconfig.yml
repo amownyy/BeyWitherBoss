@@ -1,0 +1,34 @@
+Boss:
+  Name: 'toro_wither_still' #MythicMob name
+  Variants:
+    variant1: 'toro_wither' #MythicMob variant
+    variant2: 'toro_wither_terror' #MythicMob variant
+  Location:
+    X:
+    Y:
+    Z:
+    Yaw:
+    Pitch:
+    World:
+  Requirement:
+    mob1:
+      Mob-Type:
+        Vanilla: MAGMA_CUBE
+        MythicMob: ""
+      Amount: 8
+  Options:
+    Debug:
+      enable: true
+    Data:
+      Save-Killed-Mob-Data:
+        enable: true
+#     Save-Player-Damage: true
+    Ore-List:
+      Emerald: "EMERALD_ORE"
+      Diamond: "DIAMOND_ORE"
+      Gold: "GOLD_ORE"
+      Iron: "IRON_ORE"
+      Coal: "COAL_ORE"
+      Topaz: "TOPAZ_ORE"
+      Ruby: "RUBY_ORE"
+      BEYRONYUM: "BEYRONIUM_ORE"
